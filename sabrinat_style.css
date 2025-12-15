@@ -86,7 +86,8 @@ th, td {
 
 .recommendation-text {
     font-size: 1.1em;
-    line-height: 1.7;}
+    line-height: 1.7;
+    word-spacing: 0.05em;}
 
 .footer {
     text-align: center;
